@@ -1,0 +1,7 @@
+{
+  "name": "茨城大学理学部同窓会 公式サイト",
+  "description": "茨城大学理学部同窓会の公式ウェブサイト。会員相互の親睦、会報情報、行事案内、支部活動などの情報を発信します。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
